@@ -127,8 +127,8 @@ Edit `tailwind.config.ts` to change the color palette (currently dark navy, indi
 ## 🔗 Social Links
 
 - **LinkedIn**: https://www.linkedin.com/in/likhitha-endla-64108580/
-- **GitHub**: https://github.com/likithaendla
-- **Email**: likitha.endla@gmail.com
+- **GitHub**: https://github.com/likhithaendla
+- **Email**: likhitha.endla@gmail.com
 
 ## 📊 Performance
 
